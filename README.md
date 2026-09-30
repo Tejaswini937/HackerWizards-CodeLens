@@ -53,11 +53,12 @@ Relevant Code
 - Vite
 
 ## Running the Backend
+## Demo Video
+
+[Watch the CodeLens Demo](https://drive.google.com/file/d/15xYpf0GqWgIAFCpA4SgF1pdWfMB5I2BR/view?usp=drivesdk)`
+
 
 ```bash
 cd backend
 pip install -r requirements.txt
 
-`## Demo Video
-
-[Watch the CodeLens Demo](https://drive.google.com/file/d/15xYpf0GqWgIAFCpA4SgF1pdWfMB5I2BR/view?usp=drivesdk)`
