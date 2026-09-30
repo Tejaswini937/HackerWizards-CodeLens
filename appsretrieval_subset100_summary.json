@@ -1,0 +1,16 @@
+{
+  "benchmark": "AppsRetrieval",
+  "evaluation_scope": "deterministic_100_query_subset",
+  "sample_size": 100,
+  "full_test_queries": 3765,
+  "corpus_documents": 8765,
+  "top_k": 10,
+  "metrics": {
+    "ndcg_at_10": 0.0556789490003398,
+    "mrr": 0.04545634920634921,
+    "average_latency_ms": 3121.441140999086,
+    "p95_latency_ms": 5515.143189995432
+  },
+  "model": "all-MiniLM-L6-v2",
+  "retrieval": "agentic"
+}

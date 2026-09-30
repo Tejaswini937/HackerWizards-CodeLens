@@ -1,0 +1,8 @@
+.venv/
+.venv_clean/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.idea/
+.vscode/
