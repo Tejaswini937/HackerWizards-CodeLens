@@ -53,9 +53,11 @@ Relevant Code
 - Vite
 
 ## Running the Backend
-## Demo Video
+## Submission Materials
 
-[Watch the CodeLens Demo](https://drive.google.com/file/d/15xYpf0GqWgIAFCpA4SgF1pdWfMB5I2BR/view?usp=drivesdk)`
+All submission materials, including the demo video, presentation, AI disclosure, and project backup, are available here:
+
+[Google Drive — CodeLens Submission Materials](https://drive.google.com/drive/folders/1MMbRShbDMuwzAcC61gWZuz7bEV_0gq2o)
 
 
 ```bash
